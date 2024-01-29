@@ -26,5 +26,5 @@ persist_with: crimev2_default_datagroup
 # Each joined view also needs to define a primary key.
 
 explore: model_data {
-
+  view_label: "model_data"
 }
